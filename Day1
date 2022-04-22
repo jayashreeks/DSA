@@ -1,1 +1,5 @@
-
+1.Find Triplets with Zero Sum----->
+  Sort array
+  For x find 2 numbers(y,z) in the right such that x+y+z=0
+  
+2.
